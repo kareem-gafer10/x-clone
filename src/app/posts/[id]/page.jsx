@@ -5,4 +5,4 @@ const  PostPage = () => {
   )
 }
 
-export default  Posts
+export default  PostPage
